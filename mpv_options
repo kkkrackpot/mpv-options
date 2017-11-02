@@ -1,0 +1,8 @@
+--enable-static-build
+--disable-manpage-build
+--disable-cplugins
+--disable-vapoursynth
+--disable-oss-audio
+--disable-encoding
+--enable-dvdread
+--enable-dvdnav
