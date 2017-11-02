@@ -3,7 +3,6 @@
 --disable-ffprobe
 --disable-doc
 --enable-nonfree
---disable-stripping
 --enable-gpl
 --disable-debug
 --disable-encoders
